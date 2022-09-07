@@ -1,6 +1,5 @@
 {
-    "homepage": "http://egavilanes.github.io/pomodoro",
-    "name": "estudi-app",
+    "name": "estudi",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
